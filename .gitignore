@@ -2,3 +2,6 @@
 # in a .gitignore file inside the root folder
 # of that language. See Scala/.gitignore for
 # an example. Thanks.
+/.vs/Trivia/v17/.suo
+*.vsidx
+/.vs/Trivia/FileContentIndex/aca57302-65d2-4d80-9f39-bcb984f791ef.vsidx
